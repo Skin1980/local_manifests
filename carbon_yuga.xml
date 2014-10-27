@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- HydraCarbon -->
+  <project path="device/sony/yuga" name="HydraCarbon/android_device_sony_yuga" remote="gh" revision="kk" />
+  <project path="device/sony/fusion3-common" name="HydraCarbon/android_device_sony_fusion3-common" remote="gh" revision="cm-11.0" />
+  <project path="device/sony/qcom-common" name="HydraCarbon/android_device_sony_qcom-common" remote="gh" revision="cm-11.0" />
+  <project path="kernel/sony/apq8064" name="HydraCarbon/android_kernel_sony_apq8064" remote="gh" revision="cm-11.0" />
+  <!-- CyanogenMod -->
+  <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="gh" revision="cm-11.0" />   
+  <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="gh" revision="cm-11.0" />
+  <!-- Muppets -->
+  <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="gh" revision="cm-11.0" />
+</manifest>
